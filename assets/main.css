@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 /* ---------- Paragraph Spacing ---------- */
 p {
   line-height: 1.8;  /* Makes text less cramped */
-  margin-bottom: 1.2em; /* Space between paragraphs */
+  margin-bottom: 2em; /* Space between paragraphs */
 }
 
 /* ---------- Table Styling ---------- */
