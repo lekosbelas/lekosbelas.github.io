@@ -10,6 +10,7 @@ dl, dd, ol, ul, figure {
 
 /* ---------- Paragraph Spacing ---------- */
 p {
+  text-color: #333;
   line-height: 1.8;  /* Makes text less cramped */
   margin-bottom: 2em; /* Space between paragraphs */
 }
