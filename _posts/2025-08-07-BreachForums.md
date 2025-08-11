@@ -45,16 +45,16 @@ BreachForums'un geçmişi, 2015 yılında kurulan orijinal RaidForums'a kadar uz
 
 Haziran 2023'te ShinyHunters, Baphomet ile birlikte BreachForums'un ikinci versiyonunu (v2) yeniden faaliyete geçirdi. Ardından, Haziran 2025'te forumun dördüncü versiyonunu (v4) tek başına yayına aldı. Bu süre zarfında yayına alınan geçici versiyon (v3), Nisan 2025'te ani bir şekilde ortadan kayboldu ve bu kayboluşun sebebi netleşmedi. 'Dark Storm Team' adlı grup, forumu DDoS saldırısıyla çökerttiklerini iddia etti. Diğer bazı kişiler ise bu olaydan, BreachForums'dan yasaklandıkları için misilleme yaptığı ileri sürülen Qilin fidye yazılımı grubunu sorumlu tuttu. Ayrıca, forumun çökmesinin kolluk kuvvetleri tarafından gerçekleştirilmiş olabileceğine dair söylentiler de dolaşıyordu.
 
-<img src="/assets/images/BreachForums2506-fig1.png-3.webp" alt="Dark Storm" width="300">
+<img src="/images/BreachForums2506-fig1.png-3.webp" alt="Dark Storm" width="300">
 
 4 Haziran 2025'te Counter Threat Unit (CTU)’nün yaptığı gözlemlere göre, ShinyHunters takma adlı kişi BreachForums'un dördüncü versiyonunu yeniden yayına aldı. Yayınlanan ilk iletilerden birinin IntelBroker tarafından yazıldığı iddia edildi. IntelBroker, BreachForums'un üçüncü versiyonunun yöneticiliğini 2024 yılında üstlenmişti. DB dumps ve sistemlere erişim satmasıyla tanınıyor, ayrıca CNZ ve HELLCAT gruplarıyla bağlantılıydı. Ocak 2025'te BreachForums yöneticiliğini bırakmış ve hakkında tutuklandığına dair söylentiler ortaya çıkmıştı. Bu söylentiler, 25 Haziran 2025'te ABD Adalet Bakanlığı'nın IntelBroker takma adını kullanan Kai West'e yönelik bir iddianame yayınlamasıyla doğrulandı. West, Şubat ayında tutuklanmıştı. Bu nedenle, Haziran ayında BreachForums'a yapılan paylaşım, taklit eden başka bir kişi tarafından gerçekleştirilmişti.
 
-<img src="/assets/images/BreachForums2506-fig2.png" alt="IntelBroker" width="300">
+<img src="/images/BreachForums2506-fig2.png" alt="IntelBroker" width="300">
 
 BreachForums'un dördüncü versiyonunun ömrü uzun olmadı. 9 Haziran'da forumda bir duyuru yayınlandı ve forumun kapatıldığı, ayrıca 2.500 dolara satışa çıkarıldığı belirtildi. Bu mesajda dolandırıcılara "uzak durun" uyarısı da yapıldı. ShinyHunters grubunun üyeleri iki hafta sonra tutuklandı.
 
 Bu yayın itibariyle BreachForums hala çevrimdışı durumda. Forumun geleceği belirsizliğini koruyor; ancak tarihsel model göz önüne alındığında, yeniden canlandırılması olasıdır diyenler var ama forumun öldüğünü artık kabul etmeliyiz, bütün liderler gitti.
 
-![Sold out](/assets/images/BreachForums2506-fig3.png.webp)
+![Sold out](/images/BreachForums2506-fig3.png.webp)
 
 Bu tutuklamalar, kolluk kuvvetlerinin siber suç altyapıları ve operasyonları üzerindeki baskısının artmakta olduğunu göstermektedir. ABD Adalet Bakanlığı'nın Kai West'in tutuklanması ve hakkındaki iddianameye ilişkin yayınladığı açıklamada, FBI New York ofisi Sorumlu Müdür Yardımcısı Christopher G. Raia, "Bu tutuklamalar, bir klavyenin arkasına saklanarak cezasız bir şekilde siber suç işleneceğini düşünen herkese bir uyarı niteliğindedir; FBI sizi nerede olursanız olun bulur ve yargı karşısına çıkarır" ifadelerini kullandı. CTU araştırmacıları, kolluk kuvvetlerinin bu tür eylemlerinin siber suç ekosistemine olan etkilerini izlemeye devam etmektedir.
