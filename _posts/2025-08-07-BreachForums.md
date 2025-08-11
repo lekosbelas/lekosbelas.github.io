@@ -18,11 +18,11 @@ BreachForums'un geçmişi, 2015 yılında kurulan orijinal RaidForums'a kadar uz
 
 | **Tarih**         | **Olay**                     | **Detay**                                                                 |
 |------------------|------------------------------|---------------------------------------------------------------------------|
-| 19 Mart 2015     | RaidForums hayata geçişi     | Diago Santos Coelho (nam-ı diğer ‘Omnipotent’) tarafından kuruldu, Raid Forums 53 binden fazla kullanıcıya ulaşıp, en büyük forumlardan biri oldu.                                                           |
-| 31 Ocak 2022     | Tutuklama                    | Coelho Amerikalı otoritelerin talebi üzerine Birleşik Krallık’ta tutuklandı                             |
-| 25 Ocak 2022     | Forum Offline                | RaidForums erişilemez hale geldi ve kimlik bilgisi toplama klonu açığa çıktı
-| 4 Mart 2022      | BreachForums(v1)             | Pompompurin (Conor Fitzpatrick) tarafından RaidForums’un varisi olarak açıldı |
-| 12 Nisan 2022    | Domain’e el kondu            | Operasyon Tourniquet kapsamında domainlere el konuldu                         |
+| 19 Mart 2015     | RaidForums hayata geçişi     | Diago Santos Coelho (Omnipotent) tarafından kuruldu, RaidForums 53 binden fazla kullanıcıya ulaşıp, en büyük forumlardan biri oldu.                                                           |
+| 31 Ocak 2022     | Tutuklama                    | Coelho Amerika'nın talebi üzerine Birleşik Krallık’ta tutuklandı                             |
+| 25 Ocak 2022     | Forum Offline                | RaidForums erişilemez hale geldi ve bir credential-harvesting klonu ortaya çıktı
+| 4 Mart 2022      | BreachForums(v1)             | Pompompurin (Conor Fitzpatrick) tarafından RaidForums’un varisi olarak BreachForums açıldı |
+| 12 Nisan 2022    | Domain’e el kondu            | [Operasyon Tourniquet](https://www.europol.europa.eu/media-press/newsroom/news/one-of-world’s-biggest-hacker-forums-taken-down) kapsamında domainlere el konuldu                         |
 | 15 Mart 2023     | Tutuklama                    | Fitzpatrick, Peekskill New York’ta tutuklandı                             |
 | 21 Mart 2023     | Forum Offline                | Admin ‘Baphomet’ tutuklanma korkusuyla forumu kapattı                             |
 | 12 Haziran 2023  | BreachForums(v2) açıldı      | ShinyHunters ve Baphomet forumu tekrar hayata geçirdi                     |
