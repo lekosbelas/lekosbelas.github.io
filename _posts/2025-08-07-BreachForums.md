@@ -32,11 +32,11 @@ BreachForums'un geçmişi, 2015 yılında kurulan orijinal RaidForums'a kadar uz
 | 14 Haziran 2024  | Yönetici değişimi            | ShinyHunters emekli oldu, yönetimi Anastasia devraldı                    |
 | 1 Ağustos 2024   | Yönetici değişimi            | IntelBroker yönetimi devraldı                                            |
 | 1 Ocak 2025      | Yönetici değişimi            | IntelBroker emekli oldu, Anastasia Adminliğe devam etti                            |
-| Şubat 2025       | Tutuklama                    | IntelBroker (Kai West), Fransa’da tutuklandı                              |
+| Şubat 2025       | Tutuklama                    | IntelBroker (Kai West), Fransa’da [tutuklandı](reuters.com/technology/us-seeks-extradition-alleged-hacker-arrested-france-2025-06-25/)                              |
 | 28 Nisan 2025    | Forum Offline                | Forumun neden kapandığı net değil, adminler, threat grubu, kolluk güçleri                                            |
 | 4 Haziran 2025   | BreachForums(v4) açıldı      | ShinyHunters forumu tekrar açtı(breachforums.st)                                         |
 | 9 Haziran 2025   | Satılık Forum                | ShinyHunters, forumun satılık olduğu açıklandı                                         |
-| 22 Haziran 2025  | Tutuklama                    | Fransız otorite ShinyHunter'ı tutukladı                                  |
+| 22 Haziran 2025  | Tutuklama                    | Fransız otorite ShinyHunter ekibini [tutukladı](https://therecord.media/france-breachforums-suspects-arrests)                                  |
 | 25 Haziran 2025  | Federal suçlamalar           | ABD, IntelBroker hakkında iddianame açıkladı                              |
 
 
@@ -47,7 +47,7 @@ Haziran 2023'te ShinyHunters, Baphomet ile birlikte BreachForums'un ikinci versi
 
 <img src="/images/BreachForums2506-fig1.png-3.webp" alt="Dark Storm" width="450">
 
-4 Haziran 2025'te Counter Threat Unit (CTU)’nün yaptığı gözlemlere göre, ShinyHunters takma adlı kişi BreachForums'un dördüncü versiyonunu yeniden yayına aldı. Yayınlanan ilk iletilerden birinin IntelBroker tarafından yazıldığı iddia edildi. IntelBroker, BreachForums'un üçüncü versiyonunun yöneticiliğini 2024 yılında üstlenmişti. DB dumps ve sistemlere erişim satmasıyla tanınıyor, ayrıca CNZ ve HELLCAT gruplarıyla bağlantılıydı. Ocak 2025'te BreachForums yöneticiliğini bırakmış ve hakkında tutuklandığına dair söylentiler ortaya çıkmıştı. Bu söylentiler, 25 Haziran 2025'te ABD Adalet Bakanlığı'nın IntelBroker takma adını kullanan Kai West'e yönelik bir iddianame yayınlamasıyla doğrulandı. West, Şubat ayında tutuklanmıştı. Bu nedenle, Haziran ayında BreachForums'a yapılan paylaşım, taklit eden başka bir kişi tarafından gerçekleştirilmişti.
+4 Haziran 2025'te Counter Threat Unit (CTU)’nün yaptığı gözlemlere göre, ShinyHunters takma adlı kişi BreachForums'un dördüncü versiyonunu yeniden yayına aldı. Yayınlanan ilk iletilerden birinin IntelBroker tarafından yazıldığı iddia edildi. IntelBroker, BreachForums'un üçüncü versiyonunun yöneticiliğini 2024 yılında üstlenmişti. DB dumps ve sistemlere erişim satmasıyla tanınıyor, ayrıca CNZ ve HELLCAT gruplarıyla bağlantılıydı. Ocak 2025'te BreachForums yöneticiliğini bırakmış ve hakkında tutuklandığına dair [söylentiler](https://x.com/MonThreat/status/1912124532514513125) ortaya çıkmıştı. Bu söylentiler, 25 Haziran 2025'te ABD Adalet Bakanlığı'nın IntelBroker takma adını kullanan Kai West'e yönelik bir [iddianame](https://www.justice.gov/usao-sdny/pr/serial-hacker-intelbroker-charged-causing-25-million-damages-victims) yayınlamasıyla doğrulandı. West, Şubat ayında tutuklanmıştı. Bu nedenle, Haziran ayında BreachForums'a yapılan paylaşım, taklit eden başka bir kişi tarafından gerçekleştirilmişti.
 
 <img src="/images/BreachForums2506-fig2.png" alt="IntelBroker" width="450">
 
@@ -57,4 +57,4 @@ Bu yayın itibariyle BreachForums hala çevrimdışı durumda. Forumun geleceği
 
 ![Sold out](/images/BreachForums2506-fig3.png.webp)
 
-Bu tutuklamalar, kolluk kuvvetlerinin siber suç altyapıları ve operasyonları üzerindeki baskısının artmakta olduğunu göstermektedir. ABD Adalet Bakanlığı'nın Kai West'in tutuklanması ve hakkındaki iddianameye ilişkin yayınladığı açıklamada, FBI New York ofisi Sorumlu Müdür Yardımcısı Christopher G. Raia, "Bu tutuklamalar, bir klavyenin arkasına saklanarak cezasız bir şekilde siber suç işleneceğini düşünen herkese bir uyarı niteliğindedir; FBI sizi nerede olursanız olun bulur ve yargı karşısına çıkarır" ifadelerini kullandı. CTU araştırmacıları, kolluk kuvvetlerinin bu tür eylemlerinin siber suç ekosistemine olan etkilerini izlemeye devam etmektedir.
+Bu tutuklamalar, kolluk kuvvetlerinin siber suç altyapıları ve operasyonları üzerindeki baskısının artmakta olduğunu göstermektedir. ABD Adalet Bakanlığı'nın [Kai West](https://www.chainalysis.com/blog/breachforum-intelbroker-takedown-french-cybercrime-unit-july-2025/)'in tutuklanması ve hakkındaki iddianameye ilişkin yayınladığı açıklamada, FBI New York ofisi Sorumlu Müdür Yardımcısı Christopher G. Raia, "Bu tutuklamalar, bir klavyenin arkasına saklanarak cezasız bir şekilde siber suç işleneceğini düşünen herkese bir uyarı niteliğindedir; FBI sizi nerede olursanız olun bulur ve yargı karşısına çıkarır" ifadelerini kullandı. CTU araştırmacıları, kolluk kuvvetlerinin bu tür eylemlerinin siber suç ekosistemine olan etkilerini izlemeye devam etmektedir.
