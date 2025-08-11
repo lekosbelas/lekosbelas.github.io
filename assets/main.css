@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 /* ---------- Paragraph Spacing ---------- */
 p {
   text-color: #333;
-  line-height: 1.8;  /* Makes text less cramped */
+  line-height: 2;  /* Makes text less cramped */
   margin-bottom: 2em; /* Space between paragraphs */
 }
 
@@ -40,7 +40,11 @@ table th {
   display: block; /* Center images */
 }
 
+img {
+  margin-bottom: 15px;
+  margin-top: 15px;
 
+}
 
 
 
@@ -69,7 +73,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 /**
