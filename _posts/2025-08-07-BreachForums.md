@@ -6,7 +6,7 @@ categories: blog breachforums shinyhunters
 ---
 
 
-![Üstünü Çiz](/assets/images/hand-sifting-data.jpg)
+![Üstünü Çiz](/images/hand-sifting-data.jpg)
 
 25 Haziran 2025'te Fransız yetkililer, yeraltı forumu olan BreachForums ile bağlantılı siber suçlara karıştıkları gerekçesiyle, ShinyHunters (diğer adıyla ShinyCorp) isimli siber suç çetesinin dört üyesini Fransa'nın farklı bölgelerinde tutukladıklarını duyurdu. Bu tutuklamalar, Şubat ayında BreachForums'un eski yöneticisi Kai West'in (aka IntelBroker) gözaltına alınmasıyla başlayan ve uluslararası kolluk kuvvetlerinin koordinasyonuyla yürütülen geniş kapsamılı bir operasyonun parçasıydı. Operasyon kapsamında 'ShinyHunter', 'Hollow', 'Noct' ve 'Depressed' gibi takma adları kullanan kişiler de hedef alındı.
 
