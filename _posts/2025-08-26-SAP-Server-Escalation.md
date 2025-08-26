@@ -6,7 +6,7 @@ categories: blog
 ---
 
 
-![sap](/images/sap.webp)
+![sap](/images/SAP.webp)
 
 ### Overview
 
