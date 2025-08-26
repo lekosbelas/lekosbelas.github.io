@@ -6,7 +6,7 @@ categories: blog
 ---
 
 
-![momentum992](/assets/images/sap.webp)
+![momentum992](/images/sap.webp)
 
 ### Overview
 
@@ -109,7 +109,7 @@ procselfmem: Permission denied
 ```
 Means they patched or hardened it. <strong>Sad cow noises.</strong>
 
-![momentum992](/assets/images/moo.png)
+![momentum992](/images/moo.png)
 
 #### 3. AF_PACKET Race (CVE-2016-8655)
 Thought this was it. Kernel vulnerable.
@@ -219,7 +219,7 @@ id
 uid=0(lekos) gid=0(root) groups=0(root)
 ```
 
-![Rooted](/assets/images/giphy.gif)
+![Rooted](/images/giphy.gif)
 ### Post-Exploitation
 
 Hide tracks
