@@ -4,17 +4,6 @@ title: "SAP Server - Root Write-Up Escalation"
 date: 2025-08-26
 categories: blog
 ---
-<style>
-p {
-  margin-bottom: 1.5em;
-  line-height: 1.7;
-}
-img {
-  margin: 20px 0;
-  display: block;
-  max-width: 100%;
-}
-</style>
 
 
 ![momentum992](/assets/images/sap.webp)
